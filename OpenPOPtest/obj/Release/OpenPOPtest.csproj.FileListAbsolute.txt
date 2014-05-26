@@ -1,0 +1,7 @@
+C:\Users\pasa\documents\visual studio 2012\Projects\OpenPOPtest\OpenPOPtest\bin\Release\OpenPOPtest.exe.config
+C:\Users\pasa\documents\visual studio 2012\Projects\OpenPOPtest\OpenPOPtest\bin\Release\OpenPOPtest.exe
+C:\Users\pasa\documents\visual studio 2012\Projects\OpenPOPtest\OpenPOPtest\bin\Release\OpenPOPtest.pdb
+C:\Users\pasa\documents\visual studio 2012\Projects\OpenPOPtest\OpenPOPtest\bin\Release\OpenPop.dll
+C:\Users\pasa\documents\visual studio 2012\Projects\OpenPOPtest\OpenPOPtest\obj\Release\OpenPOPtest.csprojResolveAssemblyReference.cache
+C:\Users\pasa\documents\visual studio 2012\Projects\OpenPOPtest\OpenPOPtest\obj\Release\OpenPOPtest.exe
+C:\Users\pasa\documents\visual studio 2012\Projects\OpenPOPtest\OpenPOPtest\obj\Release\OpenPOPtest.pdb
